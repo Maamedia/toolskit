@@ -1,0 +1,11 @@
+// This is list of certificates for official Maamedia Tools softwares. 
+// Every official Maamedia Tools software is certified and the certificate can be found on the software page.
+// Confirmation of this (including Certificate ID and link to the software) can be found on Github at: https://github.com/Maamedia/toolskit/blob/master/certificates-list.json
+// and on Maamedia Meta-Wiki at: https://meta.maamedia.org/wiki/Certified_Maamedia_tools
+
+{
+  "https://maamedia.org/toolskit/currencyconverter.php": "18892",
+  "https://maamedia.org/toolskit/md5.php": "12712",
+  "https://maamedia.org/toolskit/codeeditor.php": "18922",
+  "https://maamedia.org/toolskit/privacypolicygenerator.php": "14628"
+}
