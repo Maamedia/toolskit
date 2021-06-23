@@ -44,7 +44,7 @@
                 Barcode Generator
               </h4>
       <h6 class="card-subtitle mb-2 text-muted">
-        Tool: <a href="https://maamedia.org/toolsit/barcodegenerator.php">Barcode Generator</a>
+        Tool: <a href="https://maamedia.org/toolskit/barcodegenerator.php">Barcode Generator</a>
       </h6>
       <div class="card-text"></div>
     </div>
@@ -54,7 +54,7 @@
                 Live Code Editor
               </h4>
       <h6 class="card-subtitle mb-2 text-muted">
-        Tool: <a href="https://maamedia.org/toolsit/codeeditor.php">Code Editor</a>
+        Tool: <a href="https://maamedia.org/toolskit/codeeditor.php">Code Editor</a>
       </h6>
       <div class="card-text"></div>
     </div>
@@ -64,7 +64,7 @@
                 Currency Converter
               </h4>
       <h6 class="card-subtitle mb-2 text-muted">
-        Tool: <a href="https://maamedia.org/toolsit/currencyconverter.php">Currency Converter</a>
+        Tool: <a href="https://maamedia.org/toolskit/currencyconverter.php">Currency Converter</a>
       </h6>
       <div class="card-text"></div>
     </div>
@@ -74,7 +74,7 @@
                 MD5 Hash Generator
               </h4>
       <h6 class="card-subtitle mb-2 text-muted">
-        Tool: <a href="https://maamedia.org/toolsit/md5.php">MD5 Hash Generator</a>
+        Tool: <a href="https://maamedia.org/toolskit/md5.php">MD5 Hash Generator</a>
       </h6>
       <div class="card-text"></div>
     </div>
@@ -84,7 +84,7 @@
                 Privacy Policy Generator
               </h4>
       <h6 class="card-subtitle mb-2 text-muted">
-        Tool: <a href=https://maamedia.org/toolsit/privacypolicygenerator.php">Privacy Policy Generator</a>
+        Tool: <a href=https://maamedia.org/toolskit/privacypolicygenerator.php">Privacy Policy Generator</a>
       </h6>
       <div class="card-text"></div>
     </div>
